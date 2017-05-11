@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+bin/
+gen/
+obj/
+libs/*/*.so
+
+=======
 *.class
 
 # Mobile Tools for Java (J2ME)
@@ -10,3 +17,4 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+>>>>>>> 4f26fd2d4e4992b01d794a840528ac87e3fe89ec
